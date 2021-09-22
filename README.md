@@ -8,5 +8,4 @@
   cd SlideShow
   ./manage.py createsuperuser  
   ./manage.py runserver
-
   ```
