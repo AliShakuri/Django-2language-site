@@ -1,11 +1,9 @@
 ## Django-2language-site
 
 
-‍‍‍‍```
-  virtualenv .venv
+‍‍‍‍```virtualenv .venv
   source .venv/bin/activate
   pip install -r requirements.txt
   cd SlideShow
   ./manage.py createsuperuser  
-  ./manage.py runserver
-  ```
+  ./manage.py runserver```
