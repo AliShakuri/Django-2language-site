@@ -6,4 +6,4 @@
   pip install -r requirements.txt
   cd SlideShow
   ./manage.py createsuperuser  
-  ./manage.py runserver```
+  ./manage.py runserver
